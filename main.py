@@ -10,7 +10,7 @@ import urllib.parse
 import codecs
 
 user: Github
-jackblog: Repository
+my_notes: Repository
 cur_time: str
 
 
@@ -41,18 +41,18 @@ def login():
     user = Github(username, password)
 
 
-def get_jackblog():
-    global jackblog
-    jackblog = user.get_repo('%s/my-notes' % user.get_user().login)
+def get_my_notes():
+    global my_notes
+    my_notes = user.get_repo('%s/my-notes' % user.get_user().login)
 
 
 def bundle_summary_section():
-    global jackblog
+    global my_notes
     global cur_time
     global user
 
-    total_label_count = jackblog.get_labels().totalCount
-    total_issue_count = jackblog.get_issues().totalCount
+    total_label_count = my_notes.get_labels().totalCount
+    total_issue_count = my_notes.get_issues().totalCount
     labels_html_url = 'https://github.com/%s/my-notes/labels' % user.get_user().login
     issues_html_url = 'https://github.com/%s/my-notes/issues' % user.get_user().login
 
@@ -68,10 +68,10 @@ def bundle_summary_section():
 
 
 def bundle_pinned_issues_section():
-    global jackblog
+    global my_notes
 
-    pinned_label = jackblog.get_label(':+1:置顶')
-    pinned_issues = jackblog.get_issues(labels=(pinned_label,))
+    pinned_label = my_notes.get_label(':+1:置顶')
+    pinned_issues = my_notes.get_issues(labels=(pinned_label,))
 
     pinned_issues_section = '\n## 置顶 :thumbsup: \n'
 
@@ -98,9 +98,9 @@ def format_issue_with_labels(issue: Issue):
 
 
 def bundle_new_created_section():
-    global jackblog
+    global my_notes
 
-    new_5_created_issues = jackblog.get_issues()[:5]
+    new_5_created_issues = my_notes.get_issues()[:5]
 
     new_created_section = '## 最新 :new: \n'
 
@@ -111,19 +111,19 @@ def bundle_new_created_section():
 
 
 def bundle_list_by_labels_section():
-    global jackblog
+    global my_notes
     global user
 
     list_by_labels_section = '## 分类  :card_file_box: \n'
 
-    all_labels = jackblog.get_labels()
+    all_labels = my_notes.get_labels()
 
     for label in all_labels:
         temp = ''
         # 这里的count是用来计算该label下有多少issue的, 按理说应该是取issues_in_label的totalCount, 但是不知道为什么取出来的一直都是
         # 所有的issue数量, 之后再优化.
         count = 0
-        issues_in_label = jackblog.get_issues(labels=(label,))
+        issues_in_label = my_notes.get_issues(labels=(label,))
         for issue in issues_in_label:
             temp += format_issue(issue)
             count += 1
@@ -162,8 +162,8 @@ def execute():
     # 1. login
     login()
 
-    # 2. get jackblog
-    get_jackblog()
+    # 2. get my_notes
+    get_my_notes()
 
     # 3. summary section
     summary_section = bundle_summary_section()
