@@ -14,7 +14,6 @@ jobs:
       - run: git status
       - run: git config --global user.email "topcss@gmail.com"
       - run: git config --global user.name "Jack"
-      - run: git pull origin master
       - run: git checkout master
       - run: git add .
       - run: git commit -m "Update From Circle CI"
