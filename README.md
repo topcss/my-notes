@@ -1,13 +1,16 @@
 
 # GitHub Issues Blog :tada::tada::tada:
     
-> :alarm_clock: 上次更新: 2019-07-04 00:01:49
+> :alarm_clock: 上次更新: 2019-07-05 00:00:55
     
-共 [7](https://github.com/topcss/my-notes/labels) 个标签, [29](https://github.com/topcss/my-notes/issues) 篇博文.
+共 [8](https://github.com/topcss/my-notes/labels) 个标签, [30](https://github.com/topcss/my-notes/issues) 篇博文.
 
 ## 置顶 :thumbsup: 
 - [Javascript 字符串模板](https://github.com/topcss/my-notes/issues/18)  <sup>3 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-03-27 10:12:27</sub> 
 ## 最新 :new: 
+- [Win10 添加开机启动](https://github.com/topcss/my-notes/issues/30) <sup>0 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-07-04 09:10:38</sub> 
+ :label: 	<sub>|</sub><sub>[:computer:System](https://github.com/topcss/my-notes/labels/%3Acomputer%3ASystem)	|	</sub>
+
 - [.NET C# 用泛型来深拷贝对象](https://github.com/topcss/my-notes/issues/29) <sup>0 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-07-02 07:27:14</sub> 
  :label: 	<sub>|</sub><sub>[:hocho:C#](https://github.com/topcss/my-notes/labels/%3Ahocho%3AC%23)	|	</sub>
 
@@ -20,9 +23,6 @@
 - [js 实现线程暂停](https://github.com/topcss/my-notes/issues/26) <sup>0 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-06-04 08:29:01</sub> 
  :label: 	<sub>|</sub><sub>[:gun:Javascript](https://github.com/topcss/my-notes/labels/%3Agun%3AJavascript)	|	</sub>
 
-- [快速为 SqlServer 数据库每个表新增字段](https://github.com/topcss/my-notes/issues/25) <sup>0 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-05-30 03:48:44</sub> 
- :label: 	<sub>|</sub><sub>[:dvd:SQL](https://github.com/topcss/my-notes/labels/%3Advd%3ASQL)	|	</sub><sub>[:gun:Javascript](https://github.com/topcss/my-notes/labels/%3Agun%3AJavascript)	|	</sub>
-
 ## 分类  :card_file_box: 
 
 <details>
@@ -34,6 +34,12 @@
 <details>
 <summary>:coffee:Java	<sup>1:newspaper:</sup></summary>
 - [spring boot 配置](https://github.com/topcss/my-notes/issues/9)  <sup>1 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-01-14 08:21:24</sub> 
+
+</details>
+
+<details>
+<summary>:computer:System	<sup>1:newspaper:</sup></summary>
+- [Win10 添加开机启动](https://github.com/topcss/my-notes/issues/30)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-07-04 09:10:38</sub> 
 
 </details>
 
