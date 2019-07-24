@@ -1,7 +1,7 @@
 
 # GitHub Issues Blog :tada::tada::tada:
     
-> :alarm_clock: 上次更新: 2019-07-23 00:01:51
+> :alarm_clock: 上次更新: 2019-07-24 00:01:51
     
 共 [8](https://github.com/topcss/my-notes/labels) 个标签, [32](https://github.com/topcss/my-notes/issues) 篇博文.
 
@@ -41,7 +41,7 @@
 <details>
 <summary>:computer:System	<sup>2:newspaper:</sup></summary>
 - [Win10 添加开机启动](https://github.com/topcss/my-notes/issues/30)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-07-04 09:10:38</sub> 
-- [Windows 平台通用软件推荐](https://github.com/topcss/my-notes/issues/19)  <sup>8 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-05-23 09:25:25</sub> 
+- [Windows 平台通用软件推荐](https://github.com/topcss/my-notes/issues/19)  <sup>9 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-05-23 09:25:25</sub> 
 
 </details>
 
