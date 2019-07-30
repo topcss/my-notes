@@ -1,13 +1,17 @@
 
 # GitHub Issues Blog :tada::tada::tada:
     
-> :alarm_clock: 上次更新: 2019-07-29 00:00:48
+> :alarm_clock: 上次更新: 2019-07-30 00:01:17
     
-共 [8](https://github.com/topcss/my-notes/labels) 个标签, [35](https://github.com/topcss/my-notes/issues) 篇博文.
+共 [8](https://github.com/topcss/my-notes/labels) 个标签, [36](https://github.com/topcss/my-notes/issues) 篇博文.
 
 ## 置顶 :thumbsup: 
+- [帖子收藏](https://github.com/topcss/my-notes/issues/27)  <sup>1 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-06-06 06:23:54</sub> 
 - [Javascript 字符串模板](https://github.com/topcss/my-notes/issues/18)  <sup>3 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-03-27 10:12:27</sub> 
 ## 最新 :new: 
+- [iphone 上传图片会旋转的问题](https://github.com/topcss/my-notes/issues/36) <sup>0 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-07-29 01:55:23</sub> 
+ :label: 	<sub>|</sub><sub>[:gun:Javascript](https://github.com/topcss/my-notes/labels/%3Agun%3AJavascript)	|	</sub>
+
 - [统计每月的数量并排序](https://github.com/topcss/my-notes/issues/35) <sup>0 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-07-25 02:09:36</sub> 
  :label: 	<sub>|</sub><sub>[:dvd:SQL](https://github.com/topcss/my-notes/labels/%3Advd%3ASQL)	|	</sub>
 
@@ -20,13 +24,11 @@
 - [判断两个浮点数a和b是否相等时，不要使用 a==b](https://github.com/topcss/my-notes/issues/32) <sup>0 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-07-12 12:49:39</sub> 
  :label: 	<sub>|</sub><sub>[:gun:Javascript](https://github.com/topcss/my-notes/labels/%3Agun%3AJavascript)	|	</sub>
 
-- [axios 调用 jeecg-boot 传入 token 的方法](https://github.com/topcss/my-notes/issues/31) <sup>0 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-07-11 03:50:58</sub> 
- :label: 	<sub>|</sub><sub>[:coffee:Java](https://github.com/topcss/my-notes/labels/%3Acoffee%3AJava)	|	</sub>
-
 ## 分类  :card_file_box: 
 
 <details>
-<summary>:+1:置顶	<sup>1:newspaper:</sup></summary>
+<summary>:+1:置顶	<sup>2:newspaper:</sup></summary>
+- [帖子收藏](https://github.com/topcss/my-notes/issues/27)  <sup>1 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-06-06 06:23:54</sub> 
 - [Javascript 字符串模板](https://github.com/topcss/my-notes/issues/18)  <sup>3 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-03-27 10:12:27</sub> 
 
 </details>
@@ -56,7 +58,8 @@
 </details>
 
 <details>
-<summary>:gun:Javascript	<sup>11:newspaper:</sup></summary>
+<summary>:gun:Javascript	<sup>12:newspaper:</sup></summary>
+- [iphone 上传图片会旋转的问题](https://github.com/topcss/my-notes/issues/36)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-07-29 01:55:23</sub> 
 - [判断两个浮点数a和b是否相等时，不要使用 a==b](https://github.com/topcss/my-notes/issues/32)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-07-12 12:49:39</sub> 
 - [js 实现线程暂停](https://github.com/topcss/my-notes/issues/26)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-06-04 08:29:01</sub> 
 - [快速为 SqlServer 数据库每个表新增字段](https://github.com/topcss/my-notes/issues/25)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-05-30 03:48:44</sub> 
