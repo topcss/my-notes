@@ -1,14 +1,17 @@
 
 # GitHub Issues Blog :tada::tada::tada:
     
-> :alarm_clock: 上次更新: 2019-08-02 00:01:47
+> :alarm_clock: 上次更新: 2019-08-03 00:01:07
     
-共 [9](https://github.com/topcss/my-notes/labels) 个标签, [39](https://github.com/topcss/my-notes/issues) 篇博文.
+共 [9](https://github.com/topcss/my-notes/labels) 个标签, [40](https://github.com/topcss/my-notes/issues) 篇博文.
 
 ## 置顶 :thumbsup: 
 - [帖子收藏](https://github.com/topcss/my-notes/issues/27)  <sup>1 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-06-06 06:23:54</sub> 
 - [Javascript 字符串模板](https://github.com/topcss/my-notes/issues/18)  <sup>3 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-03-27 10:12:27</sub> 
 ## 最新 :new: 
+- [兼容 android 和 iso 的截取图片和视频的缩略图，用 js 客户端给视频抽帧](https://github.com/topcss/my-notes/issues/40) <sup>0 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-08-02 03:27:49</sub> 
+ :label: 	<sub>|</sub><sub>[:gun:Javascript](https://github.com/topcss/my-notes/labels/%3Agun%3AJavascript)	|	</sub>
+
 - [VUE 状态树 VUEX 的实用教程](https://github.com/topcss/my-notes/issues/39) <sup>0 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-08-01 01:23:31</sub> 
  :label: 	<sub>|</sub><sub>[:gun:Javascript](https://github.com/topcss/my-notes/labels/%3Agun%3AJavascript)	|	</sub>
 
@@ -20,9 +23,6 @@
 
 - [iphone 上传图片会旋转的问题](https://github.com/topcss/my-notes/issues/36) <sup>0 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-07-29 01:55:23</sub> 
  :label: 	<sub>|</sub><sub>[:gun:Javascript](https://github.com/topcss/my-notes/labels/%3Agun%3AJavascript)	|	</sub>
-
-- [统计每月的数量并排序](https://github.com/topcss/my-notes/issues/35) <sup>0 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-07-25 02:09:36</sub> 
- :label: 	<sub>|</sub><sub>[:dvd:SQL](https://github.com/topcss/my-notes/labels/%3Advd%3ASQL)	|	</sub>
 
 ## 分类  :card_file_box: 
 
@@ -58,7 +58,8 @@
 </details>
 
 <details>
-<summary>:gun:Javascript	<sup>14:newspaper:</sup></summary>
+<summary>:gun:Javascript	<sup>15:newspaper:</sup></summary>
+- [兼容 android 和 iso 的截取图片和视频的缩略图，用 js 客户端给视频抽帧](https://github.com/topcss/my-notes/issues/40)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-08-02 03:27:49</sub> 
 - [VUE 状态树 VUEX 的实用教程](https://github.com/topcss/my-notes/issues/39)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-08-01 01:23:31</sub> 
 - [VUE 精准控制缓存页面](https://github.com/topcss/my-notes/issues/38)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-07-31 09:26:11</sub> 
 - [iphone 上传图片会旋转的问题](https://github.com/topcss/my-notes/issues/36)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-07-29 01:55:23</sub> 
