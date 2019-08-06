@@ -1,12 +1,12 @@
 
 # GitHub Issues Blog :tada::tada::tada:
     
-> :alarm_clock: 上次更新: 2019-08-05 00:01:38
+> :alarm_clock: 上次更新: 2019-08-06 00:01:22
     
 共 [9](https://github.com/topcss/my-notes/labels) 个标签, [40](https://github.com/topcss/my-notes/issues) 篇博文.
 
 ## 置顶 :thumbsup: 
-- [帖子收藏](https://github.com/topcss/my-notes/issues/27)  <sup>1 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-06-06 06:23:54</sub> 
+- [帖子收藏](https://github.com/topcss/my-notes/issues/27)  <sup>2 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-06-06 06:23:54</sub> 
 - [Javascript 字符串模板](https://github.com/topcss/my-notes/issues/18)  <sup>3 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-03-27 10:12:27</sub> 
 ## 最新 :new: 
 - [兼容 android 和 iso 的截取图片和视频的缩略图，用 js 客户端给视频抽帧](https://github.com/topcss/my-notes/issues/40) <sup>0 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-08-02 03:27:49</sub> 
@@ -28,7 +28,7 @@
 
 <details>
 <summary>:+1:置顶	<sup>2:newspaper:</sup></summary>
-- [帖子收藏](https://github.com/topcss/my-notes/issues/27)  <sup>1 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-06-06 06:23:54</sub> 
+- [帖子收藏](https://github.com/topcss/my-notes/issues/27)  <sup>2 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-06-06 06:23:54</sub> 
 - [Javascript 字符串模板](https://github.com/topcss/my-notes/issues/18)  <sup>3 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-03-27 10:12:27</sub> 
 
 </details>
