@@ -1,7 +1,7 @@
 
 # GitHub Issues Blog :tada::tada::tada:
     
-> :alarm_clock: 上次更新: 2019-08-09 00:01:26
+> :alarm_clock: 上次更新: 2019-08-10 00:01:50
     
 共 [9](https://github.com/topcss/my-notes/labels) 个标签, [41](https://github.com/topcss/my-notes/issues) 篇博文.
 
@@ -9,10 +9,10 @@
 - [帖子收藏](https://github.com/topcss/my-notes/issues/27)  <sup>2 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-06-06 06:23:54</sub> 
 - [Javascript 字符串模板](https://github.com/topcss/my-notes/issues/18)  <sup>3 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-03-27 10:12:27</sub> 
 ## 最新 :new: 
-- [微信 js-sdk 的爬坑指南](https://github.com/topcss/my-notes/issues/41) <sup>0 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-08-08 08:22:43</sub> 
+- [微信 JS-SDK 的爬坑指南](https://github.com/topcss/my-notes/issues/41) <sup>0 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-08-08 08:22:43</sub> 
  :label: 	<sub>|</sub><sub>[:gun:Javascript](https://github.com/topcss/my-notes/labels/%3Agun%3AJavascript)	|	</sub>
 
-- [兼容 android 和 iso 的截取图片和视频的缩略图，用 js 客户端给视频抽帧](https://github.com/topcss/my-notes/issues/40) <sup>0 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-08-02 03:27:49</sub> 
+- [兼容 android 和 ios 的截取图片和视频的缩略图，用 js 客户端给视频抽帧](https://github.com/topcss/my-notes/issues/40) <sup>0 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-08-02 03:27:49</sub> 
  :label: 	<sub>|</sub><sub>[:gun:Javascript](https://github.com/topcss/my-notes/labels/%3Agun%3AJavascript)	|	</sub>
 
 - [VUE 状态树 VUEX 的实用教程](https://github.com/topcss/my-notes/issues/39) <sup>0 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-08-01 01:23:31</sub> 
@@ -59,8 +59,8 @@
 
 <details>
 <summary>:gun:Javascript	<sup>16:newspaper:</sup></summary>
-- [微信 js-sdk 的爬坑指南](https://github.com/topcss/my-notes/issues/41)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-08-08 08:22:43</sub> 
-- [兼容 android 和 iso 的截取图片和视频的缩略图，用 js 客户端给视频抽帧](https://github.com/topcss/my-notes/issues/40)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-08-02 03:27:49</sub> 
+- [微信 JS-SDK 的爬坑指南](https://github.com/topcss/my-notes/issues/41)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-08-08 08:22:43</sub> 
+- [兼容 android 和 ios 的截取图片和视频的缩略图，用 js 客户端给视频抽帧](https://github.com/topcss/my-notes/issues/40)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-08-02 03:27:49</sub> 
 - [VUE 状态树 VUEX 的实用教程](https://github.com/topcss/my-notes/issues/39)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-08-01 01:23:31</sub> 
 - [VUE 精准控制缓存页面](https://github.com/topcss/my-notes/issues/38)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-07-31 09:26:11</sub> 
 - [iphone 上传图片会旋转的问题](https://github.com/topcss/my-notes/issues/36)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-07-29 01:55:23</sub> 
