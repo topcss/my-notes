@@ -1,14 +1,17 @@
 
 # GitHub Issues Blog :tada::tada::tada:
     
-> :alarm_clock: 上次更新: 2019-08-22 00:10:22
+> :alarm_clock: 上次更新: 2019-08-23 00:10:49
     
-共 [9](https://github.com/topcss/my-notes/labels) 个标签, [41](https://github.com/topcss/my-notes/issues) 篇博文.
+共 [9](https://github.com/topcss/my-notes/labels) 个标签, [42](https://github.com/topcss/my-notes/issues) 篇博文.
 
 ## 置顶 :thumbsup: 
 - [帖子收藏](https://github.com/topcss/my-notes/issues/27)  <sup>2 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-06-06 06:23:54</sub> 
 - [Javascript 字符串模板](https://github.com/topcss/my-notes/issues/18)  <sup>3 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-03-27 10:12:27</sub> 
 ## 最新 :new: 
+- [ios的input输入框老是选不中的问题](https://github.com/topcss/my-notes/issues/42) <sup>0 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-08-22 03:07:44</sub> 
+ :label: 	<sub>|</sub><sub>[:gun:Javascript](https://github.com/topcss/my-notes/labels/%3Agun%3AJavascript)	|	</sub>
+
 - [微信 JS-SDK 的爬坑指南](https://github.com/topcss/my-notes/issues/41) <sup>0 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-08-08 08:22:43</sub> 
  :label: 	<sub>|</sub><sub>[:gun:Javascript](https://github.com/topcss/my-notes/labels/%3Agun%3AJavascript)	|	</sub>
 
@@ -20,9 +23,6 @@
 
 - [VUE 精准控制缓存页面](https://github.com/topcss/my-notes/issues/38) <sup>0 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-07-31 09:26:11</sub> 
  :label: 	<sub>|</sub><sub>[:gun:Javascript](https://github.com/topcss/my-notes/labels/%3Agun%3AJavascript)	|	</sub>
-
-- [css 布局实用篇](https://github.com/topcss/my-notes/issues/37) <sup>0 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-07-30 01:19:20</sub> 
- :label: 	<sub>|</sub><sub>[CSS](https://github.com/topcss/my-notes/labels/CSS)	|	</sub>
 
 ## 分类  :card_file_box: 
 
@@ -58,7 +58,8 @@
 </details>
 
 <details>
-<summary>:gun:Javascript	<sup>16:newspaper:</sup></summary>
+<summary>:gun:Javascript	<sup>17:newspaper:</sup></summary>
+- [ios的input输入框老是选不中的问题](https://github.com/topcss/my-notes/issues/42)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-08-22 03:07:44</sub> 
 - [微信 JS-SDK 的爬坑指南](https://github.com/topcss/my-notes/issues/41)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-08-08 08:22:43</sub> 
 - [兼容 android 和 ios 的截取图片和视频的缩略图，用 js 客户端给视频抽帧](https://github.com/topcss/my-notes/issues/40)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-08-02 03:27:49</sub> 
 - [VUE 状态树 VUEX 的实用教程](https://github.com/topcss/my-notes/issues/39)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-08-01 01:23:31</sub> 
