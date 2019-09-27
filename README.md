@@ -1,14 +1,17 @@
 
 # GitHub Issues Blog :tada::tada::tada:
     
-> :alarm_clock: 上次更新: 2019-09-26 00:10:25
+> :alarm_clock: 上次更新: 2019-09-27 00:10:23
     
-共 [9](https://github.com/topcss/my-notes/labels) 个标签, [44](https://github.com/topcss/my-notes/issues) 篇博文.
+共 [9](https://github.com/topcss/my-notes/labels) 个标签, [45](https://github.com/topcss/my-notes/issues) 篇博文.
 
 ## 置顶 :thumbsup: 
 - [帖子收藏](https://github.com/topcss/my-notes/issues/27)  <sup>2 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-06-06 06:23:54</sub> 
 - [Javascript 字符串模板](https://github.com/topcss/my-notes/issues/18)  <sup>3 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-03-27 10:12:27</sub> 
 ## 最新 :new: 
+- [开发类工具软件推荐](https://github.com/topcss/my-notes/issues/45) <sup>1 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-09-26 02:43:46</sub> 
+ :label: 	<sub>|</sub><sub>[:hammer:Tools](https://github.com/topcss/my-notes/labels/%3Ahammer%3ATools)	|	</sub>
+
 - [带状地形图，根据多段线，生成A3的图框](https://github.com/topcss/my-notes/issues/44) <sup>0 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-09-12 09:28:09</sub> 
  :label: 	<sub>|</sub><sub>[:hocho:C#](https://github.com/topcss/my-notes/labels/%3Ahocho%3AC%23)	|	</sub>
 
@@ -19,9 +22,6 @@
  :label: 	<sub>|</sub><sub>[:gun:Javascript](https://github.com/topcss/my-notes/labels/%3Agun%3AJavascript)	|	</sub>
 
 - [微信 JS-SDK 的爬坑指南](https://github.com/topcss/my-notes/issues/41) <sup>0 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-08-08 08:22:43</sub> 
- :label: 	<sub>|</sub><sub>[:gun:Javascript](https://github.com/topcss/my-notes/labels/%3Agun%3AJavascript)	|	</sub>
-
-- [兼容 android 和 ios 的截取图片和视频的缩略图，用 js 客户端给视频抽帧](https://github.com/topcss/my-notes/issues/40) <sup>0 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-08-02 03:27:49</sub> 
  :label: 	<sub>|</sub><sub>[:gun:Javascript](https://github.com/topcss/my-notes/labels/%3Agun%3AJavascript)	|	</sub>
 
 ## 分类  :card_file_box: 
@@ -80,7 +80,8 @@
 </details>
 
 <details>
-<summary>:hammer:Tools	<sup>3:newspaper:</sup></summary>
+<summary>:hammer:Tools	<sup>4:newspaper:</sup></summary>
+- [开发类工具软件推荐](https://github.com/topcss/my-notes/issues/45)  <sup>1 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-09-26 02:43:46</sub> 
 - [C32ASM 改unicode 编码。](https://github.com/topcss/my-notes/issues/13)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-02-11 03:24:06</sub> 
 - [gitbook](https://github.com/topcss/my-notes/issues/11)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-01-25 08:58:05</sub> 
 - [fiddler 高级用法](https://github.com/topcss/my-notes/issues/10)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-01-24 03:49:02</sub> 
