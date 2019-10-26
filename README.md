@@ -1,14 +1,20 @@
 
 # GitHub Issues Blog :tada::tada::tada:
     
-> :alarm_clock: 上次更新: 2019-10-25 00:10:26
+> :alarm_clock: 上次更新: 2019-10-26 00:10:40
     
-共 [9](https://github.com/topcss/my-notes/labels) 个标签, [47](https://github.com/topcss/my-notes/issues) 篇博文.
+共 [10](https://github.com/topcss/my-notes/labels) 个标签, [49](https://github.com/topcss/my-notes/issues) 篇博文.
 
 ## 置顶 :thumbsup: 
 - [帖子收藏](https://github.com/topcss/my-notes/issues/27)  <sup>2 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-06-06 06:23:54</sub> 
 - [Javascript 字符串模板](https://github.com/topcss/my-notes/issues/18)  <sup>3 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-03-27 10:12:27</sub> 
 ## 最新 :new: 
+- [Excel 调用 DLL](https://github.com/topcss/my-notes/issues/49) <sup>0 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-10-25 03:32:42</sub> 
+ :label: 	<sub>|</sub><sub>[C++](https://github.com/topcss/my-notes/labels/C%2B%2B)	|	</sub>
+
+- [Excel 调用DLL实现繁简体相互转换](https://github.com/topcss/my-notes/issues/48) <sup>0 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-10-25 02:27:33</sub> 
+ :label: 	<sub>|</sub><sub>[:hammer:Tools](https://github.com/topcss/my-notes/labels/%3Ahammer%3ATools)	|	</sub><sub>[C++](https://github.com/topcss/my-notes/labels/C%2B%2B)	|	</sub>
+
 - [如何在浏览器中打开AutoCAD并且传参给插件](https://github.com/topcss/my-notes/issues/47) <sup>0 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-10-09 00:55:55</sub> 
  :label: 	<sub>|</sub><sub>[:hocho:C#](https://github.com/topcss/my-notes/labels/%3Ahocho%3AC%23)	|	</sub>
 
@@ -17,12 +23,6 @@
 
 - [开发类工具软件推荐](https://github.com/topcss/my-notes/issues/45) <sup>1 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-09-26 02:43:46</sub> 
  :label: 	<sub>|</sub><sub>[:hammer:Tools](https://github.com/topcss/my-notes/labels/%3Ahammer%3ATools)	|	</sub>
-
-- [带状地形图，根据多段线，生成A3的图框](https://github.com/topcss/my-notes/issues/44) <sup>0 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-09-12 09:28:09</sub> 
- :label: 	<sub>|</sub><sub>[:hocho:C#](https://github.com/topcss/my-notes/labels/%3Ahocho%3AC%23)	|	</sub>
-
-- [C# 弧度与角度相互转换](https://github.com/topcss/my-notes/issues/43) <sup>0 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-09-06 01:54:54</sub> 
- :label: 	<sub>|</sub><sub>[:hocho:C#](https://github.com/topcss/my-notes/labels/%3Ahocho%3AC%23)	|	</sub>
 
 ## 分类  :card_file_box: 
 
@@ -80,7 +80,8 @@
 </details>
 
 <details>
-<summary>:hammer:Tools	<sup>4:newspaper:</sup></summary>
+<summary>:hammer:Tools	<sup>5:newspaper:</sup></summary>
+- [Excel 调用DLL实现繁简体相互转换](https://github.com/topcss/my-notes/issues/48)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-10-25 02:27:33</sub> 
 - [开发类工具软件推荐](https://github.com/topcss/my-notes/issues/45)  <sup>1 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-09-26 02:43:46</sub> 
 - [C32ASM 改unicode 编码。](https://github.com/topcss/my-notes/issues/13)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-02-11 03:24:06</sub> 
 - [gitbook](https://github.com/topcss/my-notes/issues/11)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-01-25 08:58:05</sub> 
@@ -108,6 +109,13 @@
 <details>
 <summary>:snake:Python	<sup>1:newspaper:</sup></summary>
 - [shapefile 转 json](https://github.com/topcss/my-notes/issues/28)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-06-26 03:16:14</sub> 
+
+</details>
+
+<details>
+<summary>C++	<sup>2:newspaper:</sup></summary>
+- [Excel 调用 DLL](https://github.com/topcss/my-notes/issues/49)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-10-25 03:32:42</sub> 
+- [Excel 调用DLL实现繁简体相互转换](https://github.com/topcss/my-notes/issues/48)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-10-25 02:27:33</sub> 
 
 </details>
 
