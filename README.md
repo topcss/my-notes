@@ -1,14 +1,17 @@
 
 # GitHub Issues Blog :tada::tada::tada:
     
-> :alarm_clock: 上次更新: 2019-10-30 00:10:25
+> :alarm_clock: 上次更新: 2019-10-31 00:10:37
     
-共 [10](https://github.com/topcss/my-notes/labels) 个标签, [49](https://github.com/topcss/my-notes/issues) 篇博文.
+共 [10](https://github.com/topcss/my-notes/labels) 个标签, [50](https://github.com/topcss/my-notes/issues) 篇博文.
 
 ## 置顶 :thumbsup: 
 - [帖子收藏](https://github.com/topcss/my-notes/issues/27)  <sup>2 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-06-06 06:23:54</sub> 
 - [Javascript 字符串模板](https://github.com/topcss/my-notes/issues/18)  <sup>3 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-03-27 10:12:27</sub> 
 ## 最新 :new: 
+- [Nuget 很慢怎么办](https://github.com/topcss/my-notes/issues/50) <sup>0 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-10-30 01:57:19</sub> 
+ :label: 	<sub>|</sub><sub>[:hocho:C#](https://github.com/topcss/my-notes/labels/%3Ahocho%3AC%23)	|	</sub>
+
 - [Excel 调用 DLL](https://github.com/topcss/my-notes/issues/49) <sup>0 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-10-25 03:32:42</sub> 
  :label: 	<sub>|</sub><sub>[C++](https://github.com/topcss/my-notes/labels/C%2B%2B)	|	</sub>
 
@@ -20,9 +23,6 @@
 
 - [CAD.NET 计算点与多段线的Y轴相交](https://github.com/topcss/my-notes/issues/46) <sup>0 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-09-30 06:51:18</sub> 
  :label: 	<sub>|</sub><sub>[:hocho:C#](https://github.com/topcss/my-notes/labels/%3Ahocho%3AC%23)	|	</sub>
-
-- [开发类工具软件推荐](https://github.com/topcss/my-notes/issues/45) <sup>1 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-09-26 02:43:46</sub> 
- :label: 	<sub>|</sub><sub>[:hammer:Tools](https://github.com/topcss/my-notes/labels/%3Ahammer%3ATools)	|	</sub>
 
 ## 分类  :card_file_box: 
 
@@ -90,7 +90,8 @@
 </details>
 
 <details>
-<summary>:hocho:C#	<sup>12:newspaper:</sup></summary>
+<summary>:hocho:C#	<sup>13:newspaper:</sup></summary>
+- [Nuget 很慢怎么办](https://github.com/topcss/my-notes/issues/50)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-10-30 01:57:19</sub> 
 - [如何在浏览器中打开AutoCAD并且传参给插件](https://github.com/topcss/my-notes/issues/47)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-10-09 00:55:55</sub> 
 - [CAD.NET 计算点与多段线的Y轴相交](https://github.com/topcss/my-notes/issues/46)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-09-30 06:51:18</sub> 
 - [带状地形图，根据多段线，生成A3的图框](https://github.com/topcss/my-notes/issues/44)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-09-12 09:28:09</sub> 
